@@ -1,0 +1,30 @@
+
+
+input pequeno:
+Request received
+Load Store Summary:
+Field load:    0
+Field store:   0
+
+Regular load:  5261663400
+Regular load:  11059369716
+
+Regular store: 14176063
+Regular store: 3114861437
+
+200x
+
+real    1m50.294s
+user    1m43.089s
+sys     0m0.153s
+
+
+real    0m4.985s
+user    0m1.303s73
+sys     0m0.111s
+
+12792099954 instructions in 32891653 basic blocks were executed
+27749520306 instructions in 7353073437 basic blocks were executed
+
+x223
+

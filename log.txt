@@ -1,0 +1,7 @@
+##################
+Request in thread 12 with x0=76, y0=87, x1=78, y1=89, vel=50, strat=astar
+Intructions: 127999954
+Basic Blocks: 32891653
+Load Count: 52616634
+Store Count: 14176063
+##################
